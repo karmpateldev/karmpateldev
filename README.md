@@ -1,17 +1,20 @@
-<p align="center">
-  <img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="MasterHead" width="100%">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+👋🏻;+I'm+Karm+Patel" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Karm Patel</h1>
-<p align="center">
-  <strong>Passionate Computer Engineer | Full-Stack Developer | DevOps & Generative AI Enthusiast</strong>
-</p>
+<div align="center">
+    <img src="https://iili.io/3vdmRx1.gif" alt="Coding Image" width="500" />
+</div>
+
+<h3 align="center">Passionate Computer Engineer | Full-Stack Developer | DevOps & Generative AI Enthusiast 💻</h3>
+
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/karmpateldev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/KarmPatelDev" target="_blank">
+  <a href="https://twitter.com/karmpateldev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:contact.karmpatel@gmail.com">
@@ -23,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarmPatelDev&label=Profile%20views&color=0e75b6&style=flat-square" alt="KarmPatelDev Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=karmpateldev&label=Profile%20views&color=0e75b6&style=flat-square" alt="karmpateldev Profile Views" />
 </p>
 
 <hr />
@@ -34,16 +37,30 @@ I am a dedicated **Computer Engineer** (B.E. Class of 2025, GEC Gandhinagar) bas
 - 🎓 **Education**: B.E. in Computer Engineering from Government Engineering College (GEC), Gandhinagar (2021 - 2025)
 - 📍 **Location**: Gujarat, India
 - ✉️ **Contact**: [contact.karmpatel@gmail.com](mailto:contact.karmpatel@gmail.com)
-- 🚀 **Currently Exploring**: **AI Agents (LangChain, LangGraph), RAG (Retrieval-Augmented Generation), and Multi-Modal AI**
+- 🚀 **Currently Exploring**: **AI Agents (LangChain, LangGraph), RAG (Retrieval-Augmented Generation), Multi-Modal AI, Full-Stack Development, MCP, and A2A**
+
+<br />
+
+<details>
+  <summary>🛠️ <strong>⚡ Technical Setup & Core Competencies</strong></summary>
+  <br />
+  <ul>
+    <li>💻 <strong>Dev Environment</strong>: Windows 11 Workstation with WSL2 Linux integration</li>
+    <li>⌨️ <strong>Editor & Keybinds</strong>: VS Code & Cursor IDE powered by Neovim keymaps</li>
+    <li>🎨 <strong>Theme & Style</strong>: Tokyonight Dark aesthetic for optimal code readability</li>
+    <li>🚀 <strong>Full-Stack Philosophy</strong>: Decoupled client-server architectures using Next.js (TypeScript) & Django REST Framework (Python)</li>
+    <li>⚙️ <strong>DevOps & Orchestration</strong>: Building automated Jenkins multibranch CI/CD pipelines, containerizing workloads via Docker, and writing Kubernetes manifests for dev/prod rolling deployments</li>
+    <li>🧠 <strong>GenAI & Machine Learning</strong>: Prompting image-to-image stable diffusion pipelines, compiling RAG models, and deploying scikit-learn predictive regressors</li>
+    <li>📊 <strong>Data & Analytics</strong>: Building real-time interactive data analysis dashboards with Streamlit and Plotly Express</li>
+  </ul>
+</details>
 
 <hr />
 
-### 💼 Professional Internships
+### 💼 Professional Experience
 I have hands-on industry experience building applications and configuring production workflows:
-* **TatvaSoft** — *Summer Internship* (Enterprise Software Engineering)
 * **Webito Infotech** — *Web Development Intern* (Frontend React, Tailwind, and Web development)
-* **Oasis Infobyte** — *Web Development Intern* (Responsive interface engineering and JavaScript programming)
-* **Lanet Team** — *Full-Stack Developer Intern* (React, Next.js, Python, and full-stack software practices)
+* **Lanet Team** — *Software Developer* (React, Next.js, Python, and full-stack software practices)
 
 <hr />
 
@@ -117,7 +134,7 @@ I have hands-on industry experience building applications and configuring produc
       <ul>
         <li><strong>Frontend</strong>: Next.js (App Router), TypeScript, Tailwind CSS</li>
         <li><strong>Backend</strong>: Django, PostgreSQL, Docker Compose</li>
-        <li><strong>Key Features</strong>: High-performance search, user authorization, real-time property booking, containerized production database workflows.</li>
+        <li><strong>Key Features</strong>: High-performance search, user authorization, real-time property booking, containerized database workflows.</li>
       </ul>
       <p align="left">
         <img src="https://img.shields.io/badge/Status-Development-orange" alt="Status" />
@@ -155,7 +172,7 @@ I have hands-on industry experience building applications and configuring produc
       <ul>
         <li><strong>Tech Stack</strong>: React Native, Redux Toolkit, Firebase Auth & Firestore</li>
         <li><strong>AI Tools</strong>: Dynamic plant disease diagnostic model, object recognition</li>
-        <li><strong>Key Features</strong>: APMC mandi prices tracker, regional weather forecasting, collaborative farmer forums, map resource matching, dark/light visual modes.</li>
+        <li><strong>Key Features</strong>: APMC mandi prices tracker, regional weather forecasting, collaborative farmer forums, map resource matching, dark/light modes.</li>
       </ul>
       <p align="left">
         <img src="https://img.shields.io/badge/Status-Production_Ready-green" alt="Status" />
@@ -165,24 +182,34 @@ I have hands-on industry experience building applications and configuring produc
 </table>
 
 #### Other Projects
-- 📈 **[Whatsapp Chat Analyzer](https://github.com/KarmPatelDev/Whatsapp-Chat-Analysis)**: Python, Streamlit, Pandas, and Plotly dashboard mapping detailed metrics, busiest users, sentiment, wordclouds, and emojis.
-- 🏡 **[Predict Price of House](https://github.com/KarmPatelDev/Predict-Price-Of-House)**: Flask backend loading trained Linear Regression scikit-learn models to predict property valuation.
-- 💬 **[iDiscuss Forum](https://github.com/KarmPatelDev/iDiscuss)**: Traditional dynamic online forum built in Core PHP and MySQL with categorical boards, user profiles, and indexing.
+- 📈 **[Whatsapp Chat Analyzer](https://github.com/karmpateldev/Whatsapp-Chat-Analysis)**: Streamlit dashboard mapping detailed metrics, busiest users, sentiment, wordclouds, and emojis.
+- 🏡 **[Predict Price of House](https://github.com/karmpateldev/Predict-Price-Of-House)**: Flask backend loading trained Linear Regression models.
+- 💬 **[iDiscuss Forum](https://github.com/karmpateldev/iDiscuss)**: Category-based PHP discussion forum.
 
 <hr />
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarmPatelDev&show_icons=true&theme=tokyonight&locale=en&border_radius=10" alt="KarmPatelDev's GitHub Stats" />
+  <img width="480" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karmpateldev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarmPatelDev&show_icons=true&theme=tokyonight&locale=en&layout=compact&border_radius=10" alt="KarmPatelDev's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarmPatelDev&theme=tokyonight&border_radius=10" alt="KarmPatelDev's Streak Stats" />
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=karmpateldev&show_icons=true&theme=tokyonight&locale=en&border_radius=10" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmpateldev&show_icons=true&theme=tokyonight&locale=en&layout=compact&border_radius=10" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=karmpateldev&theme=tokyonight&border_radius=10" alt="Streak Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <hr />
